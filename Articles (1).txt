@@ -1,0 +1,23 @@
+ID: 0
+Introduction to Machine Learning
+Machine learning is a field of artificial intelligence that enables computers to learn patterns from data without being explicitly programmed for every task.
+
+ID: 1
+Deep Learning and Neural Networks
+Deep learning uses layered neural networks to model complex patterns in data, powering advances in image recognition and natural language processing.
+
+ID: 2
+Basics of Data Structures
+Data structures such as arrays, stacks, queues, and hash maps organize data efficiently and are fundamental to computer science and software engineering.
+
+ID: 3
+Graph Algorithms Explained
+Graph algorithms like breadth first search and depth first search traverse networks of connected nodes and are widely used in recommendation systems.
+
+ID: 4
+Introduction to Web Development
+Web development combines HTML, CSS, and JavaScript to build interactive websites and applications that run in a browser.
+
+ID: 5
+Understanding Databases
+Databases store and organize data using structures like tables and indexes, allowing fast search and retrieval of information for applications.
